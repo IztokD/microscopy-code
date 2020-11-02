@@ -1,3 +1,7 @@
+Macro code written in ImageJ macro language for extraction of fluorescence intensities of biosensor strain B. subtilis PS-216 (∆comQ, PsrfAA-yfp) (no signal production) to the exogenously added signal molecule. 
+It can be used also for any other bacteria.
+
+
 The macro works well with zeiss .czi images. It was designed for image file constracted so that it contains 4 field of view, two channels (0= yfp, 1= Dapi) images per well of 96 microtiter plate = total 384 series, each series has two images.
 Without any modificatins you can use it also for more series, but not less than 32. 
 Please contact me,if you need the macro to work with other construction of image file
