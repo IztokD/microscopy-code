@@ -20,4 +20,4 @@ Once you are satisfied click OK to continue. The treshold is applied to images o
 10. The steps from 7. to 9. are repeated for channel 1
 11. After "Done." message appeares you can check in the folder for the results. 2 files for each channel are created. In the summary files you have mean fl. intesity, area... for all bacteria of individual images (fileds of view) in results the data for imdividual bacteria in certain channel is displayed. 
 
-Iztok Dogsa, Mihael Spacapan, Anna Dragoš, Tjaša Danevčič, Žiga Pandur, Ines Mandic-Mulec: Peptide signaling without feedback in signal production operates as a true quorum sensing communication system. Nat comm. biol. (in review)
+Iztok Dogsa, Mihael Spacapan, Anna Dragoš, Tjaša Danevčič, Žiga Pandur, Ines Mandic-Mulec: Peptide signaling without feedback in signal production operates as a true quorum sensing communication system. Comm. Biol. https://doi.org/10.1038/s42003-020-01553-5
